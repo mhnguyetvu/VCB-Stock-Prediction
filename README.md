@@ -1,4 +1,3 @@
-# VCB-Stock-Prediction
 # VCB Stock Price Prediction
 
 This project predicts VCB stock prices using an LSTM model built with PyTorch. It includes a web interface for uploading test CSV files and visualizing predictions.
